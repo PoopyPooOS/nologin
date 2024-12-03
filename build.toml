@@ -1,1 +1,1 @@
-out = "/sbin/nologin"
+out = "/system/bin/nologin"
